@@ -35,8 +35,8 @@ The main challenge this time around was a syntax error that I had early on, that
 - [X] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [X] (2pt) User can view the app on various device sizes and orientations.
+- [X] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
